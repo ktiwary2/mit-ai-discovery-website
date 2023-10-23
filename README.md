@@ -1,3 +1,3 @@
-# Website for the MIT Media Lab DeSoc Initiative / Center for Decentralized Society
+# Website for the MIT Media Lab Accelerating Discovery with AI Initiative 
 
-Forked from chlee's work setting it up. Will pull upstream from her changes for deployment.
+Please visit https://discovery.media.mit.edu/ for more information!
